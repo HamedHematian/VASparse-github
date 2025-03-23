@@ -10,8 +10,8 @@
 **TODO**
 
 - [x] Publishing our paper " VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification"
-- [x] Publishing the complete code for our VASparse.
-- [ ]  The code is continuously being updated.
+- [x] Publishing the code of our VASparse for reference.
+- [ ] More clean and complete code is continuously being updated.
 
 
 ## Installation

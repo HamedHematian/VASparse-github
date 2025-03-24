@@ -1,4 +1,4 @@
-#  VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification
+#  VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification
 
 <p align="center" width="100%">
 <a target="_blank"><img src="figs/results.png" alt="VRAL" style="width: 80%; min-width: 200px; display: block; margin: auto;"></a>
@@ -9,7 +9,7 @@
 
 **TODO**
 
-- [x] Publishing our paper " VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification"
+- [x] Publishing our paper " [VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification"](https://arxiv.org/abs/2501.06553)
 - [x] Publishing the code of our VASparse for reference.
 - [ ] More clean and complete code is continuously being updated.
 
@@ -268,3 +268,16 @@ Please refer to the [SHR evaluation](https://github.com/opendatalab/HA-DPO/tree/
 This codebase is built upon the following repository: [HALC](https://github.com/BillChan226/HALC), [OPERA](https://github.com/shikiw/OPERA), [VCD](https://github.com/DAMO-NLP-SG/VCD), [SID](https://github.com/huofushuo/SID), [FastV](https://github.com/pkunlp-icler/FastV), [SparseVLM](https://github.com/Gumpest/SparseVLMs), [HA-DPO](https://github.com/opendatalab/HA-DPO), [MME](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models), [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO), [LLaVA](https://github.com/haotian-liu/LLaVA), etc.
 
 We thank all the authors for their valuable contributions.
+
+#### Citation
+```
+@misc{zhuang2025vasparseefficientvisualhallucination,
+      title={VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification}, 
+      author={Xianwei Zhuang and Zhihong Zhu and Yuxin Xie and Liming Liang and Yuexian Zou},
+      year={2025},
+      eprint={2501.06553},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.06553}, 
+}
+```

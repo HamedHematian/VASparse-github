@@ -362,7 +362,7 @@ def vasparse_search_contrastive_decoding(
     contrastive_rate = 0.1,
     base_contrastive_layer=32, 
     base_layer_not_sure=  False,
-    detector_used=  False,
+    detector_used=  True,
     **model_kwargs,
 ) -> Union[BeamSearchOutput, torch.LongTensor]:
     r"""

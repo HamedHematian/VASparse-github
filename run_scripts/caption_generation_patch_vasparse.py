@@ -38,7 +38,7 @@ from decoder_zoo.Greedy.greedy_decoding import greedy_search
 # from decoder_zoo.Greedy.patching_generate import generate
 from decoder_zoo.VASparse.patching_generate import generate #vasparse_decoding
 from decoder_zoo.VASparse.vasparse_decoding import _update_model_kwargs_for_vasparse_contrastive_decoding, vasparse_search_contrastive_decoding
-from decoder_zoo.VASparse.vasparse_decoding import vasparse_search_greedy_decoding, vasparse_search_beam_decoding
+# from decoder_zoo.VASparse.vasparse_decoding import vasparse_search_greedy_decoding, vasparse_search_beam_decoding
 
 from decoder_zoo.VASparse.vasparser import vasparse_assistant
 
